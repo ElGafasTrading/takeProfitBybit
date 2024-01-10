@@ -1,4 +1,4 @@
-### Stop Loss Automatico para Futuros de BYBIT
+### Take Profit Automatico para Futuros de BYBIT
 
 El Script fue desarrollado para tomar las ganancias automaticamente en futuros de Bybit cuando tienes una operacion que cambia constantemente de valor, solo debes de poner la moneda que deseas operar donde ya tengas una posicion abierta, ejemplo (btc), y luego poner el porcentaje de distancia donde tomaras las ganancias, ejemplo (1)
 
