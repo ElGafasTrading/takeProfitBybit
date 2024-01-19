@@ -119,8 +119,5 @@ while True:
 
     except Exception as e:
         print(f"Error: {e}")
-        stop_loss = 0
-        estado = False
-        capital = 0
         time.sleep(5)
     time.sleep(1)
