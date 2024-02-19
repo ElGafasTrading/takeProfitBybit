@@ -54,6 +54,7 @@ def establecer_take_profit(symbol, price, side, qty):
         symbol=symbol,
         side=side,
         orderType="Limit",
+        reduceOnly=True,
         qty=qty,
         price=price,
     )
